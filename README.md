@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Srivathssan446@gmail.com**
 
-- ⚡ Fun fact **Slow but steady**
+- ⚡ Fun fact **I can do waves in my Tummy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
