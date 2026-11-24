@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Electrical and Electronics Engineering Student</h3>
 
-- 🌱 I’m currently learning **FreeCAD**
+- 🌱 I’m currently in my 3rd year **Managing projects, college work and naviagting life**
 
 - 👯 I’m looking to collaborate on **Renewable Energy Development**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Srivathssan446@gmail.com**
 
-- ⚡ Fun fact **By the end of a session , i would exactly know who's name is what....**
+- ⚡ Fun fact ** I enjoy watching movies, spend time with friends and family**
 
 
 <h3 align="left">Languages and Tools:</h3>
